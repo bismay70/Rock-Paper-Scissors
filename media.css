@@ -1,0 +1,39 @@
+@media (max-width: 600px) {
+    .options {
+        gap: 1rem; 
+        margin-top: 3rem; 
+    }
+
+    .choice {
+        height: 100px;
+        width: 100px;
+    }
+
+    .options .choice img {
+        height: 90px;
+        width: 90px;
+    }
+
+    .intro h1 {
+        font-size: 30px; 
+    }
+
+    .winner {
+        font-size: 30px; 
+    }
+
+    .score h2 {
+        font-size: 20px;
+    }
+
+    .score p {
+        font-size: 18px;
+    }
+
+    .intro button,
+    .match button {
+        width: 120px;
+        height: 40px;
+        font-size: 16px;
+    }
+}
